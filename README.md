@@ -1,1 +1,1 @@
-# react-app-deocker
+# React Application with Dockerfile
